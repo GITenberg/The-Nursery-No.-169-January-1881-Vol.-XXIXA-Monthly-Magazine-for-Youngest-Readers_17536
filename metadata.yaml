@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17536#The-Nursery-No.-169-January-1881-Vol.-XXIXA-Monthly-Magazine-for-Youngest-Readers
 gutenberg_bookshelf: The Nursery
 gutenberg_issued: '2006-01-17'
 gutenberg_type: Text
